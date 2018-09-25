@@ -1,0 +1,53 @@
+
+#body{
+     background-image: url("Two-of-Cups.jpg");
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-attachment: fixed;
+}
+Name{
+    font-size: 150%;
+
+}
+img{
+    border-radius: 50%;
+    
+}
+#about-me{
+    /* text-align:right; */
+    font-size: 150%;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 50%;
+    
+}
+#my-bio{
+    border-style: dotted dashed solid double;
+    background-color: rgba(0, 166, 255, 0.769);
+    border-radius: 10%;
+    color: purple;
+    padding: 20px;
+}
+#favorites{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+h1{
+    text-align:center;
+
+}
+.Preferences{
+    background-color: rgba(0, 229, 255, 0.358);
+    font-size: 20px;
+    color: purple;
+
+}
+#Movies{
+    border-style: dotted;
+}
+#Shows{
+    border-style: dashed;
+}
+#Music{
+    border-style: double;
+}

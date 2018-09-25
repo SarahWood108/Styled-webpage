@@ -1,0 +1,66 @@
+<body>
+    <!-- ==================== Title and Name -->
+    <h1 id=Name>ૐ Saraswati Kali ૐ</h1>
+    <div id="wrapper">
+
+        <div class="row">
+            <div id="image">
+                <img src="Sarah-Wood.jpg">
+            </div>
+            <div id=header>
+                <!-- =========================== About Me -->
+
+                <p>My name is Sarah Wood a.k.a Saraswati Kali. I am <em>almost</em> 30 years old (yikes), and I was
+                    born in Dallas, TX, even though I grew up in Dalton, GA. I was raised as an only child and I just
+                    recently came in contact with my older half sister.</p>
+            </div>
+
+            <div id="name"></div>
+        </div>
+
+        <div class="row" id="holder">
+            <div id="holder2">
+
+                <!-- ================= Favorite Shows -->
+                <div>
+                    <div class="Favorites" id="Shows">Favorite Shows</div>
+                    <ul>
+                        <li>Archer</li>
+                        <li>South Park</li>
+                        <li>American Horror Story</li>
+                        <li>Rick and Morty</li>
+                    </ul>
+                </div>
+
+                <!-- ================= Favorite Movies -->
+                <div>
+                    <div class="Favorites" id="Movies">Favorite Movies</div>
+                    <ul>
+                        <li>Amedeus</li>
+                        <li>To Wong Foo, Thanks for Everything, Julie Newmar</li>
+                        <li>Ramayana</li>
+                        <li>The Red Violin</li>
+                    </ul>
+                </div>
+
+                <!-- =================== Favorite Music -->
+                <div>
+                    <div class="Favorites" id="Music">Favorite Music Genres</div>
+                    <ul>
+                        <li>Folk / Spiritual / Cultural </li>
+                        <li>Rock (all kinds)</li>
+                        <li>Psy Trance</li>
+                        <li>Classical</li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+</body>
